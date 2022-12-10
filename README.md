@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# This is a Notes APp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Reference
++ google notes keep
++ Handy Dev
++ and some yt channels
+
+# Dev connect 
++ email - aryan191990@gmail.com
++ linkedin - https://www.linkedin.com/in/aryan-neelam-08aa66218/
++ github - https://github.com/AmazingAryan
 
 ## Available Scripts
 
